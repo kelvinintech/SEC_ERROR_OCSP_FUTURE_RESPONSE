@@ -2,3 +2,5 @@
 
 
 <h3>adjust your time and date settings</h3>
+
+<img src="https://images.minitool.com/minitool.com/images/uploads/news/2022/08/sec-error-ocsp-future-response/sec-error-ocsp-future-response-1.png">
