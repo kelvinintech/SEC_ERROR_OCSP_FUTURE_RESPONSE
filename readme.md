@@ -3,4 +3,17 @@
 
 <h3>adjust your time and date settings</h3>
 
+<b>Step 1:</b> Initiate the process by clicking on the gear icon to access Windows Settings.
+
+<b>Step 2:</b> Navigate through the settings menu, scroll down until you find Time & Language, and give it a click.
+
+<b>Step 3:</b> Within the Date & time tab, ensure to activate both Set time automatically and Set time zone automatically.
+
 <img src="https://images.minitool.com/minitool.com/images/uploads/news/2022/08/sec-error-ocsp-future-response/sec-error-ocsp-future-response-1.png">
+
+
+<p>
+I like to end this with a <b>joke</b>
+Why did the cybersecurity expert break up with their computer?
+
+Because it had too many trust issues and kept having <h4>"insecure connections"</h4></p>
